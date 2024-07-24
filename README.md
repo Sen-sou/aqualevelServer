@@ -6,7 +6,7 @@ The Aqua Level Server is a project that utilizes an ESP8266 D1 Mini microcontrol
 
 - Measures water level in a tank using sensors connected to the ESP8266 D1 Mini.
 - Provides real-time data over Wifi.
-- Can be accessed via the [AquaLevel]{https://github.com/Sen-sou/AquaLevel} android app.
+- Can be accessed via the [AquaLevel](https://github.com/Sen-sou/AquaLevel) android app.
 
 ## Hardware Requirements
 
